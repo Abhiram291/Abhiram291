@@ -13,7 +13,7 @@ AI graduate with hands-on experience in machine learning and data science. Built
 - **[Network Traffic Anomaly Detection](https://github.com/Abhiram291/kddcup-anomaly-detection)** — Built ML system for detecting network anomalies during Celebal internship
 - **[Resume Parser](https://github.com/Abhiram291/AI-Resume-Parser)** — Extracts and structures data from resumes using ML/NLP
 - **[Driver Drowsiness Detection](https://github.com/Abhiram291/DrriverDrowsinessDetection)** — Computer vision project using OpenCV and deep learning
-- **[Pokemon RAG System](https://github.com/Abhiram291/Pokemon-rag)** — LLM-based retrieval system
+- **[Pokemon RAG System](https://github.com/Abhiram291/Pokemon-rag)** — LLM-based retrieval system of intricate pokemon data.
 - **[Crowd Anomaly Detection](https://github.com/YelavarthiLalitya/Crowd-Anomaly-Detection)** — Computer vision model for detecting anomalies in crowd data (Collaborated with https://github.com/YelavarthiLalitya)
 
 ## 📊 GitHub Stats
