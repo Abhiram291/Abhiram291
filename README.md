@@ -14,7 +14,7 @@ AI graduate with hands-on experience in machine learning and data science. Built
 - **[Resume Parser](https://github.com/Abhiram291/AI-Resume-Parser)** — Extracts and structures data from resumes using ML/NLP
 - **[Driver Drowsiness Detection](https://github.com/Abhiram291/DrriverDrowsinessDetection)** — Computer vision project using OpenCV and deep learning
 - **[Pokemon RAG System](https://github.com/Abhiram291/Pokemon-rag)** — LLM-based retrieval system
-- **[Crowd Anomaly Detection](https://github.com/YelavarthiLalitya/Crowd-Anomaly-Detection)** — ML model for detecting anomalies in crowd data (Collaborated with https://github.com/YelavarthiLalitya)
+- **[Crowd Anomaly Detection](https://github.com/YelavarthiLalitya/Crowd-Anomaly-Detection)** — ML and Computer vision model for detecting anomalies in crowd data (Collaborated with https://github.com/YelavarthiLalitya)
 
 ## 📊 GitHub Stats
 ![](https://streak-stats.demolab.com/?user=Abhiram291&theme=blue_navy&hide_border=false)<br/>
