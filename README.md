@@ -1,7 +1,7 @@
 ## Hi, I'm Abhiram Ayla 👋
 
 # 💫 About Me
-AI graduate with hands-on experience in machine learning and data science. Built production ML systems at Celebal and worked on GTM side helping with pipe generation at Hivel. Interested in ML engineering, data science, and systems that scale.
+AI graduate with hands-on experience in machine learning and data science. Built production ML systems at Celebal and worked on GTM side helping with pipe generation at Hivel. Interested in ML engineering, data science, and building systems that scale.
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-ayla) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhiram_vacuumbowl)
